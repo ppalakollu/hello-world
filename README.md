@@ -1,3 +1,3 @@
 # hello-world
-just configured my public github repo
-updating to v1 based on v1 branch
+just configured my public github rep
+updated as per branching instructionso
